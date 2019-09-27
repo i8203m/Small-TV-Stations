@@ -1,7 +1,4 @@
 #EXTM3U
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Trial",9Gem (Geo) fwd
 http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:-1 tvg-logo="" group-title="Trial",9Go! (Geo) fwd
