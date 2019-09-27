@@ -1,28 +1,61 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV1,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV2,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV3,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV5,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV6,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV5+,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV9,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000143.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV10,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000170.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV12,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000171.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV14,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000172.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",CCTV17,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000169.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",梨园频道,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000098.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",七彩戏剧,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000105.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",湖北卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000144.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",东方卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000150.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",江苏卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000152.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",湖南卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000153.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",深圳卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",辽宁卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000159.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",贵州卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000165.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",安徽卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000167.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",江西卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000173.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",重庆卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000186.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",四川卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000187.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",黑龙江卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000188.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRIAL2",高清动画,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",Mediacorp Channel 5
+http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",Mediacorp Channel 8
+http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",Mediacorp Channel U
+http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",2UE Sydney
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",3AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",4BC Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",9Gem (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",9Go! (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",9Life! (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",ABC (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",ABC 2 (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",ABC Me (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",ABC News
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",ABC News (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",ABC News 24
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+#EXTINF:-1,Bloomberg TV
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",Channel 9 (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",Food Network (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",NITV (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",SBS (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",TEN (Geo) fwd
+http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.028compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="" group-title="Trial",WestTV
+http://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_2/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial", CTV 8
+http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",TVNZ 1 [Geo]
+https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",TVNZ 2 (Opt-1)
+https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",TVNZ 2 (Opt-2)
+https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Trial",Wairarapa TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
