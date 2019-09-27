@@ -1,20 +1,16 @@
 #EXTM3U
 
+#EXTINF:1 GROUP-TITLE="Trial FEW", NAT GEO People
+http://203.153.218.26:9981/stream/channelid/707541297?ticket=657010B4E21EFEFC54BB95636AD272C4C4B7306C&profile=pass
+#EXTINF:1 GROUP-TITLE="Trial FEW", NAT GEO WILD HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/198626
+#EXTINF:1 GROUP-TITLE="Trial FEW", NAT GEO Wild
+http://203.153.218.26:9981/stream/channelid/1461154413?ticket=E3CF0410267B94DB7FAF44A035EE8739EFE97C8E&profile=pass
+#EXTINF:1 GROUP-TITLE="Trial FEW", National Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:1 GROUP-TITLE="Trial FEW", National Geographic
+http://203.153.218.26:9981/stream/channelid/1159590602?ticket=5B1EE86545B40B3B31AD507B3B728A72EB5D3FDB&profile=pass
+
 #EXTINF:-1 tvg-logo="" group-title="Trial FEW",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="Trial FEW",CGTN Documentary
-http://live.cgtn.com/1000d/prog_index.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="Trial FEW",Channel News Asia (BK)
-http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Trial FEW",Comedy Central US (216)
-http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Trial FEW",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Trial FEW",MSNBC (HD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Trial FEW",Investigation Discovery
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Trial FEW",NatGeo Wild [Off]
-http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Trial FEW",Science Channel
-http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+
