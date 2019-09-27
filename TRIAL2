@@ -10,7 +10,38 @@ http://203.153.218.26:9981/stream/channelid/1461154413?ticket=E3CF0410267B94DB7F
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:1 GROUP-TITLE="Trial FEW", National Geographic
 http://203.153.218.26:9981/stream/channelid/1159590602?ticket=5B1EE86545B40B3B31AD507B3B728A72EB5D3FDB&profile=pass
-
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="Trial FEW",7 HD
+http://203.208.100.17:9981/stream/channelid/351369755
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7TWO.png" group-title="Trial FEW",7TWO
+http://203.208.100.17:9981/stream/channelid/1218420122
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7MATE.png" group-title="Trial FEW",7mate
+http://203.208.100.17:9981/stream/channelid/1872313119
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7FO.png" group-title="Trial FEW",7 food network
+http://203.208.100.17:9981/stream/channelid/358181410
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7flix.png" group-title="Trial FEW",7 flix
+http://203.208.100.17:9981/stream/channelid/485076498
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/9HD.png" group-title="Trial FEW",9 HD
+http://203.208.100.17:9981/stream/channelid/194347985
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/9Life.png" group-title="Trial FEW",9 Life
+http://203.122.193.228:9981/stream/channelid/470360276
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/GEM.png" group-title="Trial FEW",9 Gem
+http://203.208.100.17:9981/stream/channelid/331586711
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/GO.png" group-title="Trial FEW",9 Go!
+http://203.208.100.17:9981/stream/channelid/573072074
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/TENHD.png" group-title="Trial FEW", 10 HD
+http://203.208.100.17:9981/stream/channelid/1248054029
+#EXTINF:-1 tvg-logo="http://img-store-prod.switch.tv/images/a7c2ff93-3c11-42a2-a04a-d00eddc2f44e/660252_10bold_1440x1080_freeviewplus.png" group-title="Trial FEW", 10 BOLD
+http://203.208.100.17:9981/stream/channelid/1699844272
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/11.png" group-title="Trial FEW", 10 Peach
+http://203.208.100.17:9981/stream/channelid/765430526
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/SBSHD.png" group-title="Trial FEW", SBS One
+http://203.208.100.17:9981/stream/channelid/1437620401
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/VICHD.png" group-title="Trial FEW", SBS Viceland
+http://203.208.100.17:9981/stream/channelid/786758472
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/SBS2.png" group-title="Trial FEW", SBS World Movies
+http://203.208.100.17:9981/stream/channelid/1373228234
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/SBS3.png" group-title="Trial FEW", SBS Food
+http://203.208.100.17:9981/stream/channelid/91130107
 #EXTINF:-1 tvg-logo="" group-title="Trial FEW",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8 
 
