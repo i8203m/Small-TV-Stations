@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:1 GROUP-TITLE="Trial FEW", NAT GEO People
-http://203.153.218.26:9981/stream/channelid/707541297?ticket=657010B4E21EFEFC54BB95636AD272C4C4B7306C&profile=pass
+http://203.153.218.26:9981/stream/channelid/707541297
 #EXTINF:1 GROUP-TITLE="Trial FEW", NAT GEO WILD HD
 http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/198626
 #EXTINF:1 GROUP-TITLE="Trial FEW", NAT GEO Wild
-http://203.153.218.26:9981/stream/channelid/1461154413?ticket=E3CF0410267B94DB7FAF44A035EE8739EFE97C8E&profile=pass
+http://203.153.218.26:9981/stream/channelid/1461154413
 #EXTINF:1 GROUP-TITLE="Trial FEW", National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:1 GROUP-TITLE="Trial FEW", National Geographic
-http://203.153.218.26:9981/stream/channelid/1159590602?ticket=5B1EE86545B40B3B31AD507B3B728A72EB5D3FDB&profile=pass
+http://203.153.218.26:9981/stream/channelid/1159590602
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="Trial FEW",7 HD
 http://203.208.100.17:9981/stream/channelid/351369755
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7TWO.png" group-title="Trial FEW",7TWO
