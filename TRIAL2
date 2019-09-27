@@ -1,39 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Trial",9Gem (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",9Go! (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",9Life! (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",ABC (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",ABC 2 (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",ABC Me (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",ABC News (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",ABC News 24
 http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
 #EXTINF:-1,Bloomberg TV
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",Channel 9 (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",Food Network (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",NITV (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",SBS (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",TEN (Geo) fwd
-http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.028compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",WestTV
 http://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_2/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial", CTV 8
 http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Trial",TVNZ 1 [Geo]
 https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Trial",TVNZ 2 (Opt-1)
