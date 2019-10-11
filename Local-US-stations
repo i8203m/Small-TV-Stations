@@ -6,11 +6,11 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2MyiyMl.png" group-title="Small US Stations",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="Small US Stations",Akaku 53 Hawaii
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnJmFkQ.png" group-title="Small US Stations",Akaku 53 Hawaii
 https://akaku.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="Small US Stations",Akaku 54 Hawaii
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnJmFkQ.png" group-title="Small US Stations",Akaku 54 Hawaii
 https://akaku.vod.castus.tv/live/ch2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="Small US Stations",Akaku 55 Hawaii
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnJmFkQ.png" group-title="Small US Stations",Akaku 55 Hawaii
 https://akaku.vod.castus.tv/live/ch3.m3u8
 #EXTINF:-1 tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png" group-title="Small US Stations",BUTV10 - Boston University
 http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
