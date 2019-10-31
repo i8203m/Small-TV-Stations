@@ -6,6 +6,8 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2MyiyMl.png" group-title="Small US Stations",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zoJtXnB.jpg" group-title="Small US Stations",3 News Now Nebraska
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnJmFkQ.png" group-title="Small US Stations",Akaku 53 Hawaii
 https://akaku.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnJmFkQ.png" group-title="Small US Stations",Akaku 54 Hawaii
